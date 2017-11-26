@@ -1,4 +1,4 @@
-# incident-elenium
+# incident-selenium
 
 Este projeto foi desenvolvido para testar o front-end da aplicação que está disponível na url http://front-incident.surge.sh/. O projeto utiliza a ferramenta Selenium para a realização dos testes, abaixo seguem instruções para que o projeto possa ser executado com sucesso.
 
